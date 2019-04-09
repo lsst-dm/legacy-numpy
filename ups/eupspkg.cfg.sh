@@ -1,5 +1,5 @@
 _MODULE="numpy"
-_VERSION="1.14.5"
+_VERSION="1.16.2"
 
 config()
 {
